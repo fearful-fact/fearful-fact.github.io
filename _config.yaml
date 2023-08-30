@@ -1,2 +1,4 @@
 theme: minima
 title: Fearful Fact's Blog
+minima:
+  skin: dark
